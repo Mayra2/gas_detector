@@ -6,3 +6,6 @@ Upload the Arduino sketch (.ino file) to the Arduino board using the Arduino IDE
 Power up the system and monitor the real-time gas concentrations and movement detection on the display.
 Interact with the system using the button (taster) for configuration or acknowledgment.
 Pay attention to audible alerts from the buzzer when gas concentrations reach critical levels.
+
+# Important notice
+All documentation, as well as comments in the code, are in Bosnian language
